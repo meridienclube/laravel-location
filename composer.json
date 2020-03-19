@@ -1,5 +1,5 @@
 {
-    "name": "confrariaweb/laravel-location",
+    "name": "meridienclube/laravel-location",
     "version": "dev-master",
     "description": "Location pack for laravel framework",
     "keywords": [
@@ -16,9 +16,9 @@
         }
     ],
     "require": {
-        "confrariaweb/laravel-historic": "dev-master",
-        "confrariaweb/laravel-select2": "dev-master",
-        "confrariaweb/laravel-vendor": "dev-master",
+        "meridienclube/laravel-historic": "dev-master",
+        "meridienclube/laravel-select2": "dev-master",
+        "meridienclube/laravel-vendor": "dev-master",
         "laravelcollective/html": ">=6.0",
         "yajra/laravel-datatables": ">=1.5"
     },
